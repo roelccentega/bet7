@@ -106,7 +106,7 @@
                             <div class="ttm-icon ttm-icon_element-fill ttm-icon_element-color-skincolor ttm-icon_element-size-xs ttm-icon_element-style-rounded mb-0">
                                 <i class="fa fa-phone"></i>
                             </div>
-                            <div class="pl-2 ttm-textcolor-white">+51 965 059 553</div>
+                            <div class="pl-2 ttm-textcolor-white">+51 966 176 059</div>
                         </div>
                     </div>
                 </div><!-- site-navigation end-->
@@ -129,7 +129,7 @@
                             <div class="site-navigation d-flex flex-row align-items-center justify-content-between">
                                 <!-- site-branding -->
                                 <div class="site-branding ">
-                                    <a class="home-link" href="{{url('/')}}" title="Company Cc&M" rel="home">
+                                    <a class="home-link" href="{{url('/')}}" title="Ccenter Company" rel="home">
                                         <img id="logo-img" class="img-center" src="{{url('images/logo-ccentercompany.png')}}" alt="Company Cc&M">
                                     </a>
                                 </div><!-- site-branding end -->
